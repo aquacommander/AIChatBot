@@ -1,6 +1,5 @@
 ---
 title: Ai Chatbot
-emoji: 📊
 colorFrom: indigo
 colorTo: gray
 sdk: streamlit
